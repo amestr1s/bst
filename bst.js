@@ -316,3 +316,5 @@ class tree {
         this.root = this.buildTree(sortedValues);
     }
 }
+
+export { tree };
